@@ -1,0 +1,11 @@
+create team based on office 365 group
+
+create planner based on office 365 group
+
+fluent ui (or) pnp spfx controls - people picker
+
+design
+
+checkbox - sent mail to members
+
+fields - description, private/public, 
